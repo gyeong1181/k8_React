@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
-import { GiAlgae } from "react-icons/gi";
+import { GiScrollUnfurled } from "react-icons/gi";
+
 
 
 function App() {
@@ -18,7 +19,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React
-          <GiAlgae></GiAlgae>
+          <GiScrollUnfurled></GiScrollUnfurled>
         </a>
       </header>
     </div>
